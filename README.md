@@ -1,2 +1,2 @@
 # arp_flush
-Flush arp for vip
+Flush arp when vip has moved
